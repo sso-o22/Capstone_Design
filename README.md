@@ -24,7 +24,7 @@
 
 1. 압력센서
    - 압력센서 -> LCD 출력 (빈 좌석 수 표시)
-     <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/RFID.png" width=700> 
+     <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/RFID.png"> 
    - 압력센서 -> 블루투스 통신을 사용하여 전송 -> 스마트폰
      <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/압력센서.png" width=700>
      <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/앱_좌석현황.jpg" width=300 height=600>
