@@ -41,7 +41,8 @@
   - 현재 위치와 정류장의 위치 일치 여부 -> 블루투스 통신을 사용하여 전송 -> 스마트폰
   - 예약 : 원하는 정류장 예약 -> 정류장 도착 시 알림 발생
 
-    <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/앱_정류장체크.jpg" width=300 height=600>
+    <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/앱_정류장체크.jpg" width=300 height=600> 
+    <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/GPS.png" width=700>
      
     [GPS 기능 시연 영상](https://github.com/sso-o22/Capstone_Design/blob/main/Video/GPS_%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
     
