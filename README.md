@@ -20,7 +20,7 @@
    - 버스에서 졸음 등으로 인해 하차 지점을 놓치는 일이 빈번하여 알림 서비스의 필요성을 느낌
 
 ### 작품구성 및 상세내용
-<img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/구성도.jpg">
+<img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/구성도.jpg" width=700>
 
 1. 압력센서
 (1) 압력센서 -> LCD
