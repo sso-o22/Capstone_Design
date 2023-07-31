@@ -3,8 +3,7 @@
 시내버스 좌석 이용 조회 시스템
 
 ### 제작동기
-현재 시내버스의 승차 인원을 파악하여 혼잡도를 표시해주는 시스템은 있다. 
-그러나 시내버스 안의 빈 좌석을 안내해주는 시스템은 없다.
+현재 시내버스의 승차 인원을 파악하여 혼잡도를 표시해주는 시스템은 있으나 시내버스 안의 빈 좌석을 안내해주는 시스템은 없다.
 버스를 탈 때 앉아서 가고 싶지만, 빈좌석이 있는 버스가 오기만을 마냥 기다릴 수는 없다.
 이럴 때 내가 타고 싶은 버스의 내부 상황을 알 수 있다면 정말 편하지 않을까 라는 생각이 들어 제작하게 되었다.
 
@@ -24,7 +23,7 @@
 
 1. 압력센서
    - 압력센서 -> LCD 출력 (빈 좌석 수 표시)
-     <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/RFID.png" width=700> 
+     <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/RFID_free.png" width=700> 
    - 압력센서 -> 블루투스 통신을 사용하여 전송 -> 스마트폰
      <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/압력센서.png" width=700>
      
@@ -36,7 +35,7 @@
     - 8 ~ 11 : normal (보통) 
     - 12 : full (혼잡)
 
-      <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/RFID.png" width=700> 
+      <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/RFID_normal.png" width=700> 
 
 3. GPS -> 스마트폰
   - 현재 위치와 정류장의 위치 일치 여부 -> 블루투스 통신을 사용하여 전송 -> 스마트폰
