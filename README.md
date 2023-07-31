@@ -35,10 +35,12 @@
     - 0 ~ 7 : free (여유)
     - 8 ~ 11 : normal (보통) 
     - 12 : full (혼잡)
+
       <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/RFID.png" width=700> 
 
 3. GPS -> 스마트폰
   - 현재 위치와 정류장의 위치 일치 여부 -> 블루투스 통신을 사용하여 전송 -> 스마트폰
   - 예약 : 원하는 정류장 예약 -> 정류장 도착 시 알림 발생
+
     <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/앱_정류장체크.jpg" width=300 height=600>
     
