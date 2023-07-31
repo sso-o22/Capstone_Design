@@ -20,6 +20,7 @@
 
 ### 작품구성 및 상세내용
 <img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/구성도.jpg" width=700>
+<img src="https://raw.githubusercontent.com/sso-o22/Capstone_Design/main/Images/알고리즘.png" width=700>
 
 1. 압력센서
    - 압력센서 -> LCD 출력 (빈 좌석 수 표시)
